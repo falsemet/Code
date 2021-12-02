@@ -1,0 +1,9 @@
+1.运行python的OS类型判断
+2./Users/后的参数自动获取
+3.main函数功能：
+    1.缓存文件删除
+    2.移动与清理：移动前移动文件与目标路径同名文件hash比较
+    3.移动过程中文件分类：archived，video，documents
+    4.移动后hash.txt存档
+    5.
+4.多线程 复制的同时计算存储hash值

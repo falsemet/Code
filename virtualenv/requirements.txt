@@ -1,0 +1,5 @@
+##requirements without version specifiers##
+
+##requirements with version specifiers##
+django 
+psutil
